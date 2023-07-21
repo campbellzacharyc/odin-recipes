@@ -1,0 +1,11 @@
+body {
+    background: burlywood;
+}
+
+ul {
+    font-style: italic;
+}
+
+h1, h2, p, ol {
+    font-family: Annai MN;
+}
